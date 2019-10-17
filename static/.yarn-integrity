@@ -1,0 +1,16 @@
+{
+  "systemParams": "darwin-x64-72",
+  "modulesFolders": [
+    "static"
+  ],
+  "flags": [],
+  "linkedModules": [],
+  "topLevelPatterns": [
+    "highcharts@^7.2.0"
+  ],
+  "lockfileEntries": {
+    "highcharts@^7.2.0": "https://registry.yarnpkg.com/highcharts/-/highcharts-7.2.0.tgz#d6bd00240767cfab67210ead47c6cd015384e74d"
+  },
+  "files": [],
+  "artifacts": {}
+}
